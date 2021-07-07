@@ -4,7 +4,6 @@
 # production
 /build
 /dist
-/bundler
 
 # vercel
 .vercel
